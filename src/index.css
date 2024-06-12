@@ -1,0 +1,161 @@
+Resetting default browser styles
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Global styles */
+.content {
+  padding: 20px;
+}
+
+.innerContent {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type='text'],
+input[type='email'],
+input[type='password'],
+input[type='url'],
+button {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 5px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.sidebar {
+  display: flex;
+}
+
+.layout {
+  flex: 1;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.navbar a,
+.navbar button {
+  color: #fff;
+  text-decoration: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.crud {
+  font-weight: bold;
+}
+
+.operation {
+  font-style: italic;
+}
+
+.userBlock {
+  padding: 20px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.list {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.profile-info {
+  margin-bottom: 20px;
+}
+
+.profile-info p {
+  margin-bottom: 10px;
+}
+
+.profile-info img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.loading {
+  text-align: center;
+  margin-top: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .sidebar {
+    padding-right: 20px;
+  }
+
+  .layout {
+    padding-left: 20px;
+  }
+}

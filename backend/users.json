@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Akanksha ",
+      "salary": "50000",
+      "company": "Abc",
+      "id": "1"
+    },
+    {
+      "name": "vineeth",
+      "salary": "1234567",
+      "company": "nmom",
+      "id": "0847"
+    },
+    {
+      "name": "nithin",
+      "salary": "12345678",
+      "company": "asdfghj",
+      "id": "3b29"
+    },
+    {
+      "name": "sai",
+      "salary": "987654",
+      "company": "qwer",
+      "id": "bd9b"
+    }
+  ]
+}

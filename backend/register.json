@@ -1,0 +1,22 @@
+{
+  "registeruser": [
+    {
+      "id": "893c",
+      "email": "Aka@gmail.com",
+      "password": "1234",
+      "prof_pic": "https://i.pinimg.com/originals/39/9b/d7/399bd75f5c3ede2fa95f61786e52c886.jpg"
+    },
+    {
+      "id": "545e",
+      "email": "vin@gmail.com",
+      "password": "123",
+      "prof_pic": "https://th.bing.com/th/id/OIP.Gr-x4pmHVG9smW0P0gDJqQHaEo?w=269&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+      "id": "468c",
+      "email": "sai@gmail.com",
+      "password": "12345",
+      "prof_pic": "https://th.bing.com/th/id/R.01d388d9dada354f51c4ebd45a4c4b2e?rik=lHd%2ff5x3JIfujg&riu=http%3a%2f%2fwww.atozpictures.com%2fuploads%2f2015%2f10%2fcrow-bird-wallpaper.jpg&ehk=787f0pgP6AC9rgi8oXprTNXqm3alhSIK%2fNaIUGQgkPI%3d&risl=&pid=ImgRaw&r=0"
+    }
+  ]
+}
